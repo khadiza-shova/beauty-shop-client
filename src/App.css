@@ -1,0 +1,12 @@
+ul li{
+  font-size: 18px;
+}
+body{
+  font-family: 'Inter', sans-serif;
+}
+.brand_product{
+  height: 95%;
+}
+.brand_product img{
+  height: 80%;
+}
